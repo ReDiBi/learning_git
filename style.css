@@ -8,7 +8,7 @@
     user-select: none;
 }
 body {
-    background: #F2F2F2;
+    background: #ff0000;
 }
 #c {
     display: block;
@@ -21,7 +21,7 @@ body {
     width: auto;
     max-width: 420px;
     height: auto;
-    background: #f8f8f8;
+    background: #ff0000;
     border-bottom-right-radius: 10px;
     border:1px solid #ccc;
 }
