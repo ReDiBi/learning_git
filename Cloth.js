@@ -250,7 +250,7 @@ document.getElementById('close').onmousedown = function(e) {
       ctx     = canvas.getContext('2d');
   
       canvas.width  = 560;
-      canvas.height = 350;
+      canvas.height = 400;
   
       start();
   };
